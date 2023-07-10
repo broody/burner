@@ -1,0 +1,14 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "starknet": "https://github.com/broody/starknet.js#2ca935e0062fc7b7a5fff2130c1255596179964e"
+  }
+}
